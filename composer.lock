@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "472c290ace7946ff2890ae3c30fb4293",
+    "content-hash": "748f8d4260d7d2d301246612bf3d254f",
     "packages": [
         {
             "name": "alrik11es/cowsayphp",
@@ -72,7 +72,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "7.4.2"
+        "php": "7.3.33"
     },
     "platform-dev": [],
     "plugin-api-version": "2.3.0"
